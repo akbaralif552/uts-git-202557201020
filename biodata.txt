@@ -1,3 +1,7 @@
 Nama : Muhammad AKbar Alif Din
 NPM : 202557201020
+<<<<<<< HEAD
 Hobi : Membaca dan Musik
+=======
+Hobi : Coding
+>>>>>>> fitur-hobi
